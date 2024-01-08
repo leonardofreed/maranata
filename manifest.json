@@ -1,7 +1,7 @@
 {
-    "name": "Caldo Da Fran",
-    "short_name": "Caldo da Fran",
-    "start_url": "https://caldodafran.vercel.app/",
+    "name": "Restaurante Maranatan",
+    "short_name": "Restaurante Maranatan",
+    "start_url": "https://maranata-nine.vercel.app/",
     "display": "standalone",
     "description": "Melhor aldo da região do Imperial-CBA",
     "lang": " Portugues PT-BR ",
@@ -34,8 +34,8 @@
     }],
     "prefer_related_applications": false,
     "shortcuts": [{
-        "name": "Caldo da Fran",
+        "name": "Restaurante Maranatan",
         "url": "The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
-        "description": "Caldo da Fran"
+        "description": "Restaurante Maranatan"
     }]
 }
