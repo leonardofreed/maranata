@@ -1,0 +1,106 @@
+[{
+        "id": 0,
+        "titulo": "DOBRADINHA",
+        "descricao": "Delicioso caldo de dobradinha (bucho bovino), mocotó, feijão branco, bacon e calabresa. Acompanha porção de pão ou torrada (500g)",
+        "imagem": "../images/mocoto.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 1,
+        "titulo": "MOCOTÓ",
+        "descricao": "Delicioso caldo de mocotó bovino e temperos da casa. Acompanha porção de pão ou torrada",
+        "imagem": "../images/mocoto.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 2,
+        "titulo": "CHICA DOIDA",
+        "descricao": "Delicioso caldo de batata inglesa, carne seca e mussarela. Acompanha porção de pão ou torrada (500)",
+        "imagem": "../images/chicadoida.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 3,
+        "titulo": "COSTELA COM MANDIOCA",
+        "descricao": "Delicioso caldo de costela bovina e mandioca em pedaços. Acompanha porção de pão (500g)",
+        "imagem": "../images/costelacommandioca.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 4,
+        "titulo": "CREME DE ABÓBORA",
+        "descricao": "Delicioso creme de abóbora cabotiã, carne desfiada, creme de leite e mussarela. Acompanha porção de pão ou torrada (500g)",
+        "imagem": "../images/cremedeabobora.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 5,
+        "titulo": "CALDO VERDE",
+        "descricao": "Delicioso caldo com frango desfiado, couve, ervilha, batata inglesa, cenoura, milho, abóbora, bacon e calabresa. Acompanha porção de pão ou torrada (500g)",
+        "imagem": "../images/caldoverde.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 6,
+        "titulo": "CALDO DA SOGRA",
+        "descricao": "Delicioso caldo da sogra com creme de mandioca, frango desfiado, bacon, calabresa e mussarela. Acompanha porção de pão ou torrada (500g)",
+        "imagem": "../images/caldodasogra.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 7,
+        "titulo": "CREME DE BATATA",
+        "descricao": "Delicioso creme de batata inglesa, frango desfiado e mussarela. Acompanha porção de pão ou torrada",
+        "imagem": "../images/cremedebatata.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 8,
+        "titulo": "ESCAUDADO DE FRANGO",
+        "descricao": "Delicioso caldo com frango desfiado e ovos. Acompanha porção de pão ou torrada",
+        "imagem": "../images/escaudadodefrango.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 9,
+        "titulo": "CALDO DE FEIJÃO",
+        "descricao": "Delicioso caldo de feijão carioca, bacon, calabresa e crispy de torresmo. Acompanha porção de pão ou torrada (500g)",
+        "imagem": "../images/escaudadodefeijao.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 10,
+        "titulo": "CALDO DE PEIXE",
+        "descricao": "Delicioso caldo de peixe desfiado e temperos da casa. Acompanha porção de pão ou torrada",
+        "imagem": "../images/caldodepeixe.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 11,
+        "titulo": "CREME DE ERVILHA",
+        "descricao": "Delicioso creme de ervilha, cenoura, bacon e calabresa. Acompanha porção de pão ou torrada",
+        "imagem": "../images/cremedeervilha.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 12,
+        "titulo": "CALDO DE OSSOBUCO",
+        "descricao": "Delicioso caldo de ossobuco, acompanha porção de pão ou torrad ",
+        "imagem": "../images/calodeossobuco.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 13,
+        "titulo": "QUENGA",
+        "descricao": "Delicioso caldo de mandioca, frango desfiado, milho, bacon, calabresa e mussarela. Acompanha porção de pão francês (500g)",
+        "imagem": "../images/quenga.webp",
+        "preco": "27.90"
+    },
+    {
+        "id": 14,
+        "titulo": "CALDO DE FRANGO",
+        "descricao": "Delicioso caldo de mandioca, frango desfiado, milho e cenoura. Acompanha porção de pão francês (500g)",
+        "imagem": "../images/caldodefrango.webp",
+        "preco": "27.90"
+    }
+]
