@@ -194,7 +194,7 @@ function totalFunc() {
 // Função do botão para mandar o pedido com os itens no whatsapp
 function mensagem() {
     var buttonWhatsApp = document.getElementById("buttonWhatsapp");
-    var mensagemWhats = 'https://api.whatsapp.com/send?l=pt_BR&phone=5565996151325&text=';
+    var mensagemWhats = 'https://api.whatsapp.com/send?l=pt_BR&phone=556599758995&text=';
 
     mensagemWhats += "Boa%20noite%20pessoal,%0Agostaria%20de%20pedir:%0A";
 
